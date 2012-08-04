@@ -1,4 +1,4 @@
 miniwp
 ======
 
-A minimal Wordpress theme.
+A minimal, blank Wordpress theme.
